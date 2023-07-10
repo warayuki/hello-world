@@ -18,7 +18,6 @@ github演習
 - ブランチ
   > 作業を枝分かれさせ共同・並列作業を可能にする。
 - gitフロー
-***
 
 ***
 ## gitのコード
@@ -27,7 +26,6 @@ github演習
 　> git config –global
   > git config –global user.name yourname
   > git config –global user.email yourname@example.com
-***
 
 ***
 ## gitコマンド
