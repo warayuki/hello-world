@@ -2,6 +2,7 @@
 2023/7/5
 github演習
 
+***
 ## gitの機能
 
 - コミット
@@ -17,16 +18,18 @@ github演習
 - ブランチ
   > 作業を枝分かれさせ共同・並列作業を可能にする。
 - gitフロー
+***
 
-
+***
 ## gitのコード
 - グローバルセッティング
   > gitの設定
 　> git config –global
   > git config –global user.name yourname
   > git config –global user.email yourname@example.com
+***
 
-
+***
 ## gitコマンド
 - 設定・確認系
   - git init 
@@ -82,7 +85,7 @@ github演習
     >レポジトリをコピー
   - git push
     > 変更をアップロードする
-
+***
 
 
 
