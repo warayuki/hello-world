@@ -16,8 +16,7 @@ gitフロー
 
 ## gitのコード
 - グローバルセッティング
-  > gitの設定 
-  > 
+  > gitの設定
 　> git config –global
   > git config –global user.name yourname
   > git config –global user.email yourname@example.com
@@ -33,7 +32,6 @@ gitフロー
     > 設定周りの確認・変更
   - git log
 　  > ログを表示
-　  > -- onelineでコミットメッセージの1行のみの一覧表示
   - git diff
 　  > ファイルの差分を表示
 
